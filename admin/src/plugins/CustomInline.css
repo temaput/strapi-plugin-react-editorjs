@@ -1,0 +1,10 @@
+.ce-block strong {
+    font-weight: 700;
+}
+.ce-block em {
+	font-style: italic;
+}
+.ce-block sup {
+	vertical-align: super;
+	font-size: 0.8em;
+}
